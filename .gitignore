@@ -1,0 +1,15 @@
+## Mac
+.DS_Store
+
+## Core LaTeX
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+./Notes/_minted-main
+*.pygstyle
+*.pygtex
