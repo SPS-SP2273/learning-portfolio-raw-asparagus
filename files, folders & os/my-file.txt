@@ -2,15 +2,3 @@ First line to append.
 Second line to append.
 Third line to append.
 New data to append.
-First line to append.
-Second line to append.
-Third line to append.
-New data to append.
-First line to append.
-Second line to append.
-Third line to append.
-New data to append.
-First line to append.
-Second line to append.
-Third line to append.
-New data to append.
